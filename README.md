@@ -15,6 +15,10 @@ You are going to learn how to use the `Blob()` and `createObjectURL()` construct
 
 The app was built with HTML, CSS, vanilla JavaScript and its totalyy beginner friendly.
 
+## Demo
+
+Give it a try here 👉 [Demo](https://roudi22.github.io/Text-file/)
+
 **Feel free to clone the repo and make some changes**
 
 **HAPPY CODING 🚀**
